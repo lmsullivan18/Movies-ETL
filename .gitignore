@@ -1,2 +1,5 @@
 debug.log $ git rm --cached config.py rm config.py $ git commit -m Start ignoring config.py
 debug.log $ git rm --cached config.py rm config.py $ git commit -m Start ignoring config.py
+
+#adding config.py file
+config.py
